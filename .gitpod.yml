@@ -1,0 +1,4 @@
+tasks:
+  - init: |
+      pip install pandas
+      pip install numpy
