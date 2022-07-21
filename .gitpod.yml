@@ -1,4 +1,2 @@
 tasks:
-  - init: |
-      pip install pandas
-      pip install numpy
+  - init: pip3 install -r requirements.txt
